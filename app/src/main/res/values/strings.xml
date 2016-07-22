@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundPlayer</string>
+    <string name="play_sound">PlaySound</string>
+</resources>
